@@ -11,5 +11,5 @@ I have even looked at the moving average and auto correlation to look at the gen
 I have used **linear regression, MLPRegressor, K-nearest Neighbours, Random forest regressor and Support Vector Machines** 
 to test for the best model that fits the data. 
 I used time series cross validation for robust validation of model. 
-Obtained best results for random forest model with an **explained variance of 0.913 and RMSE of 0.037. **
+Obtained best results for random forest model with an **explained variance of 0.913 and RMSE of 0.037**.
 A **mean absolute error of 29.08** GWh was also obtained.  
